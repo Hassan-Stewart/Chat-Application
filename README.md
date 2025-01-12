@@ -1,6 +1,6 @@
-# StewartConnect
+# HaAmiSphere
 
-Welcome to the  StewartConnect Chat Application, your go-to solution for real-time communication needs.
+Welcome to the HaAmiSphere Chat Application, your go-to solution for real-time communication needs.
 
 ## About Chat Application
 
